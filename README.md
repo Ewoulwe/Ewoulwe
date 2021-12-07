@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Ewoulwe
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me thedooptr@gmail.com
+- 👀 I’m interested in Web Design anf Game Development
+- 🌱 I’m currently learning Javascript
+- advanced html,css
+- intermediate js
+- unity also c#
+- 📫 How to reach me: thedooptr@gmail.com
 
 <!---
 Ewoulwe/Ewoulwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
