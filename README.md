@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ewoulwe
-- 👀 I’m interested in Web Design anf Game Development
+- 👀 I’m interested in Web Design and Game Development
 - 🌱 I’m currently learning Javascript
 - advanced html,css
 - intermediate js
