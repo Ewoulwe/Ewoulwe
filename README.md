@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Ewoulwe
-- 👀 I’m interested in Web Design and Game Development
-- 🌱 I’m currently learning Javascript
-- advanced html,css
-- intermediate js
-- unity also c#
+- 👀 I’m interested in Fullstack Web Development , Game Development And Graphic Design.
+- 🌱 I am currently working as a Freelancer.
+- 💻 My Website: ishakyondemli.herokuapp.com
 - 📫 How to reach me: thedooptr@gmail.com
 
 <!---
